@@ -1,0 +1,7 @@
+Our application for part-A along with 3 files which are in the folder. 
+We also attach the pagerank link file as a txt file as well.
+We have copies of our codes on vm1 at /home/ubuntu/submission/Part-A. 
+To run a command, please run the corresponding shell script under /home/ubuntu/grader.
+The differences between three files are at whether or not to partition RDDs into a specified number. 
+For Question3 script, we make lines and links as persistent RDD.
+Number of Iterations are specified in the console, we choose to print the outcome on the console.

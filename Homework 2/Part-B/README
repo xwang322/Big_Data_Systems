@@ -1,0 +1,8 @@
+This part we develop the codes for structured streaming. 
+If you want to run the code, first run streaming-emulator.sh in /home/ubuntu/grader. This will transfer files from hdfs /staging to /monitoring. 
+After this is running, run which question you like in Part-B, we set the question1 and 3 for console display at 200 which is larger than 20 default setting. 
+For question 2, the result is written to /PartB-Question2-result in hdfs in parquet format, the filename is randomly generated.
+If you want to cat what is inside, you need to download the file to local file system and rename to whatever name you perfer plus .parquet as postscript.
+Then open pyspark and type in spark.read.parquet(filename.parquet).show()
+
+

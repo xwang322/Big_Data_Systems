@@ -1,0 +1,20 @@
+vm-38-5: Inter-|   Receive                                                |  Transmit
+vm-38-5:  face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+vm-38-5:   eth0: 8751939874588 6056583395    0    0    0     0          0         0 176756715236 722728132    0    0    0     0       0          0
+vm-38-5:     lo: 71469784973 3027825    0    0    0     0          0         0 71469784973 3027825    0    0    0     0       0          0
+vm-38-2: Inter-|   Receive                                                |  Transmit
+vm-38-2:  face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+vm-38-2:   eth0: 287112086156 255578129    0    0    0     0          0         0 201625952054 61265705    0    0    0     0       0          0
+vm-38-2:     lo: 75749814621 14282910    0    0    0     0          0         0 75749814621 14282910    0    0    0     0       0          0
+vm-38-3: Inter-|   Receive                                                |  Transmit
+vm-38-3:  face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+vm-38-3:   eth0: 210498152579 194075573    0    0    0     0          0         0 125627299638 52634016    0    0    0     0       0          0
+vm-38-3:     lo: 83295917814 3588833    0    0    0     0          0         0 83295917814 3588833    0    0    0     0       0          0
+vm-38-4: Inter-|   Receive                                                |  Transmit
+vm-38-4:  face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+vm-38-4:   eth0: 218365182778 208697637    0    0    0     0          0         0 125930301692 46395741    0    0    0     0       0          0
+vm-38-4:     lo: 85428587562 3268432    0    0    0     0          0         0 85428587562 3268432    0    0    0     0       0          0
+vm-38-1: Inter-|   Receive                                                |  Transmit
+vm-38-1:  face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+vm-38-1:   eth0: 660901650669 1210217314    0    0    0     0          0         0 9041947364544 447532203    0    0    0     0       0          0
+vm-38-1:     lo: 63408080954145 1744299175    0    0    0     0          0         0 63408080954145 1744299175    0    0    0     0       0          0
